@@ -1,0 +1,14 @@
+===== RECEIPT =====
+Date: 11/11/2025 2:22:56 PM
+Order #: E15121279
+
+Items:
+- fish = 150
+- hotdog = 300
+- milk = 100
+- matcha = 250
+
+Total: 800
+Payment: 1000
+Change: 200
+==================
